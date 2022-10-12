@@ -1,0 +1,3 @@
+The objective of this project is to create a html-only website project using the basic building blocks of HTML and familiarize myself with the environment of linux and its CLI, Git and GitHub.
+
+I've created a basic index page containing links to subpages with food recipes. It made me practice setting up a basic boilerplate, using basic tags and concepts related to HTML. Along the process I've created commits using git when achieving the smaller milestones to further practice using CLI and enforce good practices of version control using git and GitHub.
